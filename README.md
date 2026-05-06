@@ -82,6 +82,7 @@ it-support-home-lab-portfolio/
 ├── progress-tracker.md
 │
 ├── 01-active-directory/
+│   ├── windows-server-setup.md
 │   ├── ad-installation.md
 │   ├── core-user-management.md
 │
