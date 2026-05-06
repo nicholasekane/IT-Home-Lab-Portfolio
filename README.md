@@ -96,7 +96,7 @@ it-support-home-lab-portfolio/
 │   ├── instance-setup-and-navigation.md
 │   ├── incident-lifecycle-practice.md
 │
-├── 05-okta-optional/
+├── 05-okta/
 │   ├── okta-documentation-lab.md
 │
 ├── screenshots/
