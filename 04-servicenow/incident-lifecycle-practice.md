@@ -65,7 +65,7 @@ Simulated real-world IT support scenarios by creating and managing incidents fro
 ## Screenshots
 
 ### Incident List (Incident → All)
-![Incident List](../screenshots/2026-05-05_servicenow_incident-list.png)
+![Incident List](../screenshots/2026-05-05_servicenow_incident-list (2).png)
 
 ---
 
