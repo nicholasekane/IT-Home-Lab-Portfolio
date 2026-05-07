@@ -2,8 +2,8 @@
 
 Tulsa, Oklahoma  
 Nicholas.e.kane@gmail.com  
-LinkedIn: linkedin.com/in/nicholasekane  
-GitHub: github.com/nicholasekane  
+[linkedin.com/in/nicholasekane](https://www.linkedin.com/in/nicholasekane/)  
+[github.com/nicholasekane](https://github.com/nicholasekane)
 
 ---
 
