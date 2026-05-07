@@ -5,7 +5,7 @@
 ## Resume
 
 - [Markdown Resume](./Nicholas-Kane-Resume.md)
-- [PDF Resume](./Nicholas_Kane_Resume_Final.pdf)
+- [PDF Resume](./Nicholas_Kane_Resume_PDF.pdf)
 
 ---
 
