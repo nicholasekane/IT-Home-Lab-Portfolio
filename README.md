@@ -65,7 +65,7 @@ This lab focuses on:
 
     README.md
     Nicholas-Kane-Resume.md
-    Nicholas_Kane_Resume_Final.pdf
+    Nicholas_Kane_Resume_PDF.pdf
 
     01-active-directory/
     02-windows-client/
