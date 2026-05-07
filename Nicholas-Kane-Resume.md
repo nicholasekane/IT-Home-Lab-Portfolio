@@ -1,15 +1,17 @@
-# Nicholas Kane
+<h1 align="center">Nicholas Kane</h1>
 
-Tulsa, Oklahoma  
-Nicholas.e.kane@gmail.com  
-[linkedin.com/in/nicholasekane](https://www.linkedin.com/in/nicholasekane/)  
-[github.com/nicholasekane](https://github.com/nicholasekane)
+<p align="center">
+Tulsa, Oklahoma<br>
+Nicholas.e.kane@gmail.com<br>
+Linkedin: <a href="https://www.linkedin.com/in/nicholasekane/">linkedin.com/in/nicholasekane</a><br>
+Github: <a href="https://github.com/nicholasekane">github.com/nicholasekane</a>
+</p>
 
 ---
 
 ## Professional Summary
 
-Technical professional with experience supporting enterprise system migrations, troubleshooting operational issues, data validation, and technical documentation across consulting and higher education environments. Background includes production support during large deployment windows, issue resolution, stakeholder coordination, and process documentation. Recently expanded hands-on experience with Windows administration, identity management, ticket workflows, and endpoint support through technical training and independent technical projects. Seeking opportunities across IT support, systems support, technical operations, or analyst roles.
+Technical professional with experience in enterprise system migrations, troubleshooting, data validation, technical documentation, and operational support across consulting, higher education, and software environments. Background includes production deployment work, issue resolution, stakeholder coordination, and system modernization projects. Recently expanded hands-on experience with Windows administration, identity workflows, ticket management, and endpoint support through technical training and independent projects. Seeking opportunities in IT support, systems support, technical operations, or technical analyst roles.
 
 ---
 
@@ -23,9 +25,9 @@ June 2020 – July 2023
 Houston, TX  
 April 2023 – June 2023  
 
-- Supported acquisition system integration into SAP platforms.
-- Performed data validation, transformation review, and load support using SQL checks and Excel templates.
-- Assisted with testing support and issue troubleshooting during implementation deadlines.
+- Executed data validation and transformation reviews for an acquisition migration into SAP systems.
+- Performed SQL checks and Excel-based validation to identify data issues before production loads.
+- Troubleshot defects during testing cycles to keep implementation timelines on track.
 
 ---
 
@@ -33,10 +35,10 @@ April 2023 – June 2023
 Dallas, TX  
 December 2022 – March 2023  
 
-- Supported modernization of legacy legal systems by migrating Microsoft Access databases into Microsoft SQL Server.
-- Updated 100+ queries and 30+ forms to support modernization efforts.
-- Assisted with role-based access updates through VBA modifications.
-- Supported audit validation through reconciliation testing, scripting fixes, and stakeholder review.
+- Migrated legacy Microsoft Access databases into Microsoft SQL Server as part of a legal systems modernization initiative.
+- Updated 100+ queries and 30+ forms to improve usability and maintain system functionality.
+- Implemented role-based access updates through VBA modifications.
+- Completed reconciliation testing and scripting fixes that helped secure legal stakeholder approval.
 
 ---
 
@@ -44,14 +46,25 @@ December 2022 – March 2023
 Dallas, TX  
 July 2020 – December 2022  
 
-- Supported a 60+ person enterprise migration program involving Capco, IBM, and third-party vendors during a large-scale IBM Maximo conversion initiative.
-- Progressed from conversion team member to conversion lead by taking ownership of migration execution, validation workflows, and deployment coordination.
-- Wrote and executed 100+ Oracle SQL scripts for data extraction, transformation, validation, reconciliation, and state transitions.
-- Supported migration of 30+ database tables, including a 2.5M+ row asset table containing historical records dating back to the early 1980s.
-- Helped execute three dress rehearsals and production cutovers during weekend deployment windows running Friday evening through Monday morning.
-- Resolved database contention issues by shifting large migrations into chunked load batches to improve execution stability.
-- Supported post-go-live issue resolution by identifying data labeling problems that impacted operations.
+- Led migration execution activities for a 60+ person enterprise IBM Maximo conversion program involving Capco, IBM, and third-party vendors.
+- Wrote and executed 100+ Oracle SQL scripts for extraction, transformation, validation, reconciliation, and state transitions.
+- Migrated 30+ database tables, including a 2.5M+ row asset table containing historical records dating back to the early 1980s.
+- Critical execution role in three dress rehearsals and production cutovers during weekend deployment windows.
+- Resolved database contention issues by redesigning large migrations into chunked load batches.
+- Identified post-go-live data labeling issues that impacted operations and helped drive corrective changes.
 - Trained additional team members on migration execution and validation procedures.
+
+---
+
+### Insight360 / Veeder Root — Product Manager Intern  
+Houston, TX  
+May 2019 – August 2019  
+
+- Built Salesforce reports and dashboards used by internal business teams.
+- Analyzed 10,000+ customer records across legacy systems to improve migration planning decisions.
+- Reduced migration scope by identifying unnecessary legacy data and tables.
+- Created reporting processes that reduced recurring manual reporting work.
+- Documented workflows for planned migration initiatives.
 
 ---
 
@@ -59,10 +72,9 @@ July 2020 – December 2022
 Houston, TX  
 Spring 2019 – Spring 2020  
 
-- Supported technical troubleshooting for coursework systems used by approximately 1,600 students.
-- Assisted students with software issues and technical assignments.
-- Created documentation used for onboarding and operational continuity.
-- Provided grading and course support across multiple semesters.
+- Assisted approximately 1,600 students with technical troubleshooting for coursework systems and software issues.
+- Created documentation used for onboarding and continuity across future course staff.
+- Resolved technical assignment issues and provided operational course support across multiple semesters.
 
 ---
 
@@ -70,41 +82,17 @@ Spring 2019 – Spring 2020
 Houston, TX  
 August 2017 – May 2018  
 
-- Supported students in computer lab environments.
-- Assisted with technical troubleshooting for coursework systems.
-- Helped facilitate review sessions and instructional support.
+- Managed computer lab operations for MIS students.
+- Troubleshot coursework-related technical issues.
+- Led review sessions and provided instructional support.
 
 ---
 
-## Technical Skills
+## Education
 
-Windows Server  
-Active Directory  
-ServiceNow  
-Microsoft Entra ID  
-Oracle VirtualBox  
-Identity Administration  
-User Provisioning  
-Password Resets  
-Account Administration  
-Group Management  
-Endpoint Support  
-Access Management  
-MFA Administration  
-Ticket Management  
-Incident Documentation  
-Troubleshooting  
-SQL  
-Oracle SQL  
-Microsoft SQL Server  
-Data Validation  
-Data Migration  
-Jira  
-SAP Support  
-Microsoft Access  
-Excel  
-SharePoint  
-OneNote  
+**Bachelor of Business Administration (BBA), Management Information Systems**  
+C.T. Bauer College of Business  
+University of Houston  
 
 ---
 
@@ -116,8 +104,13 @@ SAFe 6 Scrum Master — 2023
 
 ---
 
-## Education
+## Technical Skills
 
-**Bachelor of Business Administration (BBA), Management Information Systems**  
-C.T. Bauer College of Business  
-University of Houston
+**Systems & Identity:**  
+Windows Server, Active Directory, Microsoft Entra ID, ServiceNow, Oracle VirtualBox, Identity Administration, User Provisioning, Password Resets, Account Administration, Group Management, Endpoint Support, Access Management, MFA Administration
+
+**Data & Systems Support:**  
+SQL, Oracle SQL, Microsoft SQL Server, Data Validation, Data Migration, Microsoft Access, SAP, Salesforce Reporting
+
+**Project & Workflow Tools:**  
+Jira, SharePoint, GitHub
