@@ -1,5 +1,10 @@
 # IT Support Home Lab Portfolio
 
+### Nicholas Kane | IT Support Candidate
+
+Tulsa, Oklahoma  
+Transitioning from consulting into IT support through hands-on technical labs and documentation.
+
 ---
 
 ## Resume
@@ -24,16 +29,6 @@ This lab focuses on:
 - Ticket documentation workflows
 - Endpoint management fundamentals
 - Technical documentation
-
----
-
-## About Me
-
-**Nicholas Kane**
-
-- Transitioning into IT support from consulting
-- Based in Tulsa, Oklahoma
-- Building hands-on technical experience through structured lab projects
 
 ---
 
@@ -137,10 +132,9 @@ Each lab includes:
 - Screenshots
 - Troubleshooting notes
 - Lessons learned
-- Resume-safe documentation
 
 ---
 
 ## Final Summary
 
-Built a self-directed IT portfolio to develop practical experience with Active Directory, Windows support, ServiceNow ticket workflows, cloud identity systems, and endpoint management while maintaining clear documentation and recruiter-friendly project structure.
+Built a self-directed IT portfolio to develop practical experience with Active Directory, Windows support, ServiceNow ticket workflows, cloud identity systems, and endpoint management while maintaining clear documentation and project structure.
